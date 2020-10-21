@@ -5,4 +5,4 @@ Using webgl to realize the Tetris game
 “↓”  move down     
 “space”  rotate   
 push button “start game”  and  click the  canvas      
-game-link   
+game link   https://leo-lele.github.io/Tetris-webgl/CLASS/Tetris.html
